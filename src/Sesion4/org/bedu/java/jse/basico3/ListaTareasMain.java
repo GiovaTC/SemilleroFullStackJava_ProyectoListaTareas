@@ -10,12 +10,12 @@ public class     ListaTareasMain {
         String mensaje = null;
         
         
-        System.out.println("\nMenú:");
+   /*     System.out.println("\nMenú:");
         System.out.println("1. Crear nueva lista de tareas");
         System.out.println("2. Ver listas de tareas");
         System.out.println("3. Ver tareas de lista");
         System.out.println("4. Actualizar lista de tareas");
-        System.out.println("5. Eliminar lista de tareas");
+        System.out.println("5. Eliminar lista de tareas");*/
         
         do {
             menu.muestraOpciones();
